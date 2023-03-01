@@ -1,8 +1,8 @@
 # Venture-Funding-with-Deep-Learning
-![Image](download.jpg)
+![Image](Image1.jpg)
 
 
-# Predicting which file which applicants will be sucessful if funded by a company. 
+# Predicting which applicants will be sucessful if funded. 
 
 
 # Creating a model that predicts which applicants will be successful after receiving funding. 
